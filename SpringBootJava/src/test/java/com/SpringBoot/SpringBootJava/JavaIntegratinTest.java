@@ -18,6 +18,7 @@ import org.springframework.web.context.WebApplicationContext;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes=MainApp.class)
+
 public class JavaIntegratinTest {
 	
 	@Autowired
